@@ -1,0 +1,11 @@
+body {
+    background-color: darkseagreen;
+    color: darkslategray;
+    font-family: "Trebuchet MS", "Comic Sans MS", cursive;
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    border-bottom: double 5px 
+}
