@@ -14,8 +14,18 @@ header {
 
 h1 {
     font-size: 30px;
+    border-botton: double 7px rgba(35, 104, 95, 0.616);
+    text-align: center;
 }
 
 p {
     font-size: 20px;
+    text-align: center;
+}
+
+iframe, video {
+    diplay: block;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 700%;
 }
