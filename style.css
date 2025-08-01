@@ -2,18 +2,18 @@ body {
     background-color: rgb(75, 85, 75);
     color: rgb(199, 228, 228);
     font-family: "Trebuchet MS", "Comic Sans MS", cursive;
-    margin: 40;
+    margin: 0;
 }
 
 header {
     font-size: 20px;
-    padding: 30px;
+    padding: 7px;
     text-align: center;
 }
 
 h1 {
     font-size: 30px;
-    border-botton: double 7px rgba(35, 104, 95, 0.616);
+    border-botton: double 9px rgba(168, 212, 206, 0.616);
     text-align: center;
 }
 
